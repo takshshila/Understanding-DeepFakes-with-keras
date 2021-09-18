@@ -3,7 +3,9 @@ Implement Deep Convolutional Generative Adversarial Network (DCGAN)
 
 ![DCGAN](https://user-images.githubusercontent.com/9932479/133896621-ce1051d1-fcd2-4c64-a366-e2e8cf67f026.png)
 
-* Importing the MNIST Dataset
+#### Step to create this project:
+
+* Import the MNIST Dataset
 * Create Generator (Artist/Actor) Network
 * Create Discriminator (Critic) Network
 * Connect the Generator and Discriminator to create a Generative Adversarial Network (GAN)
